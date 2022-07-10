@@ -1,4 +1,4 @@
-## Oiii eu sou a Keilla Arruda, Trabalho e estudo com programação e tecnologia!
+## Oiii, eu sou a Keilla Arruda, Trabalho e Estudo com programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="keilla-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
