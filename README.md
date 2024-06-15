@@ -40,8 +40,8 @@
 
 ### Minhas Habilidaes:
 <div align="left"> 
-<img align="left" height="84" width="84" src="[![image](https://github.com/keillaarr/keillaarr/assets/47616927/43b3ad67-9ffc-4cc6-8fb7-c5387e1dcdba)
-](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)">
+<img align="left" height="84" width="84" src="[[![image](https://github.com/keillaarr/keillaarr/assets/47616927/43b3ad67-9ffc-4cc6-8fb7-c5387e1dcdba)
+](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)](https://icons8.com.br/icon/108784/javascript)">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
