@@ -68,7 +68,7 @@
 
 <div align="left"> 
 
-< <img src="./icons/NodeJS-Dark.svg" width="48">>
+ <img src="./icons/NodeJS-Dark.svg" width="48">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
