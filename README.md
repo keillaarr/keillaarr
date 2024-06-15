@@ -39,7 +39,9 @@
 
 ### Minhas Habilidaes:
 <div align="left"> 
-<img align="left" height="84" width="84" src="<i class="devicon-javascript-plain colored"></i>">
+<img align="left" height="84" width="84" src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          ">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
