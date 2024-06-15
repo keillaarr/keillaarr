@@ -43,6 +43,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 
+<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
+
 <img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
 
 <img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
