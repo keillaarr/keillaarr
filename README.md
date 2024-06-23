@@ -39,19 +39,19 @@
 
 ### Minhas Habilidaes:
 
-<img align="left" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+<img align="left" height="80" width="80" title="GitHun" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+<img align="left"  height="80" width="80" title="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
+<img align="left"  height="80" width="80"  title="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+<img align="left"  height="80" width="80" title="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+<img align="left"  height="80" width="80" title="JAVA" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+<img align="left"  height="80" width="80 " title="CSS TaiLwind" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
 
-<img align="left"  height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+<img align="left"  height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
 
 
 </div>
