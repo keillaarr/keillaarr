@@ -37,7 +37,7 @@
 </div>
 
 
-### Minhas Habilidaes:
+### Minhas Habilidades:
 
 <img align="left" height="80" width="80" title="GitHun" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
 
@@ -79,3 +79,4 @@
 
 
 
+////////
