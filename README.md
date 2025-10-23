@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="center">
   <img height="80" width="80" title="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
