@@ -1,6 +1,6 @@
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+sou+Keilla+Arruda;Desenvolvedora+Fullstack;Transformando+ideias+em+soluções+digitais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+sou+Keilla+Arruda;Desenvolvedora+Fullstack;Seja+bem+vindo)](https://git.io/typing-svg)
 
 <br><br>
 
