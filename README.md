@@ -28,7 +28,7 @@
   <img height="80" width="80" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img height="80" width="80" title="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img height="80" width="80" title="React" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/pages/icons/JavaScript.svg">
+  <img height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img height="80" width="80" title="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img height="80" width="80" title="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img height="80" width="80" title="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
