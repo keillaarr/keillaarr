@@ -33,6 +33,8 @@
   <img height="80" width="80" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img height="80" width="80" title="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img height="80" width="80" title="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img height="80" width="80" title="React" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  
 </div>
 
 
