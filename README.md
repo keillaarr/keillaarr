@@ -1,6 +1,6 @@
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+sou+Keilla+Arruda;Desenvolvedora+Fullstack;Seja+bem+vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+sou+Keilla+Arruda;Desenvolvedora+Fullstack+%26+Mobile;Seja+bem+vinda)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -20,39 +20,35 @@
 
 ---
 
-###  Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="80" width="80" title="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-  <img height="80" width="80" title="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-  <img height="80" width="80" title="GitLab" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
   <img height="80" width="80" title="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img height="80" width="80" title="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img height="80" width="80" title="TailwindCSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img height="80" width="80" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-  <img height="80" width="80" title="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
-  <img height="80" width="80" title="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img height="80" width="80" title="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img height="80" width="80" title="React" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  
+  <img height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/pages/icons/JavaScript.svg">
+  <img height="80" width="80" title="PostgreSQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img height="80" width="80" title="Git" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img height="80" width="80" title="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+  <img height="80" width="80" title="Linux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+  <img height="80" width="80" title="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
 </div>
 
+---
+
+### 🚀 Sobre Mim
+Desenvolvedora Fullstack & Mobile | Especialista em **Java, Spring Boot, PHP (Laravel/Drupal), React Native & TypeScript** | Foco na construção de **APIs RESTful seguras, aplicações web responsivas e aplicativos mobile de alta performance**, unindo engenharia de software e inovação.
 
 ---
 
-###  Sobre Mim
-Desenvolvedora Fullstack | Especialista em **Java, Spring, JavaScript & TailwindCSS** | Foco em **microserviços, APIs RESTful, CI/CD e DevOps** para soluções **escaláveis, seguras e de alta performance**.
-
-
----
-
-###  Objetivo
-Transformar ideias em **soluções digitais robustas e eficientes**, me divertir enquanto resolvo problemas e entregar resultados que gerem **impacto real para empresas e usuários**.
-
+### 🎯 Objetivo
+Transformar ideias em **soluções digitais robustas e eficientes**, desenvolvendo ecossistemas completos (Web e Mobile) que entreguem **experiências fluidas e de alto impacto** para os usuários.
 
 ---
 
-###  GitHub Stats & Tech Dashboard
+### 📊 GitHub Stats & Tech Dashboard
 
 <div align="center">
 
@@ -69,7 +65,7 @@ Transformar ideias em **soluções digitais robustas e eficientes**, me divertir
 
 ---
 
-###  Projetos em Destaque
+### 🛠️ Projetos em Destaque
 <div align="center">
   <a href="https://github.com/keillaarr/AutomacaoEndereco" target="_blank">
     <img height="100" src="https://img.shields.io/badge/Automação%20de%20Endereços-blue?style=for-the-badge&logo=github"/>
@@ -81,9 +77,8 @@ Transformar ideias em **soluções digitais robustas e eficientes**, me divertir
 
 ---
 
-###  Contribuições & Foco
-- Desenvolvimento de **aplicações web fullstack** e microserviços.  
-- Implementação de **integração entre backend e frontend** moderno.  
-- Aplicação de **DevOps, boas práticas de Git e metodologias ágeis**.  
-- Participação ativa em **projetos open source**.
-
+### 💡 Competências & Foco
+- **Desenvolvimento Backend:** Criação de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot e JPA**, com foco em segurança de dados e tratamento de registros complexos.
+- **Desenvolvimento Mobile:** Construção de interfaces nativas e multiplataforma com **React Native, TypeScript e Expo**, focando em UX, navegação fluida e componentização eficiente.
+- **Desenvolvimento Web:** Aplicações completas utilizando **PHP (Laravel/Blade)**, ecossistemas **Drupal** e arquiteturas modernas no front-end.
+- **Banco de Dados & DevOps:** Gestão de bancos relacionais (**PostgreSQL, Oracle**), manipulação de dados sensíveis, controle de versão avançado (**Git/GitHub/GitLab**) e automação de rotinas em ambientes **Linux**.
