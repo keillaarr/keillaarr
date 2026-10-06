@@ -50,8 +50,6 @@ Transformar ideias em **soluções digitais robustas e eficientes**, desenvolven
 
 ### 📊 GitHub Stats & Tech Dashboard
 
-### 📊 GitHub Stats & Tech Dashboard
-
 <div align="center">
 
 [![GitHub Streak](https://img.shields.io/badge/Streak-Ativo-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/keillaarr)
