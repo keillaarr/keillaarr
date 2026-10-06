@@ -50,6 +50,16 @@ Transformar ideias em **soluções digitais robustas e eficientes**, desenvolven
 
 ### 📊 GitHub Stats & Tech Dashboard
 
+### 📊 GitHub Stats & Tech Dashboard
+
+<div align="center">
+
+[![GitHub Streak](https://img.shields.io/badge/Streak-Ativo-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/keillaarr)
+[![Top Language](https://img.shields.io/badge/Linguagem%20Principal-Java%20%2F%20Spring-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/keillaarr)
+[![Mobile Dev](https://img.shields.io/badge/Mobile-React%20Native%20%2F%2520Expo-orange?style=for-the-badge&logo=react&logoColor=white)](https://github.com/keillaarr)
+
+</div>
+
 <div align="center">
 
 <!-- Estatísticas gerais -->
