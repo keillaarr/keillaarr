@@ -25,7 +25,6 @@
 <div align="center">
   <img height="80" width="80" title="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img height="80" width="80" title="Spring" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img height="80" width="80" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img height="80" width="80" title="TypeScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img height="80" width="80" title="React" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img height="80" width="80" title="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
@@ -39,7 +38,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Desenvolvedora Fullstack & Mobile | Especialista em **Java, Spring Boot, PHP (Laravel/Drupal), React Native & TypeScript** | Foco na construção de **APIs RESTful seguras, aplicações web responsivas e aplicativos mobile de alta performance**, unindo engenharia de software e inovação.
+Desenvolvedora Fullstack & Mobile | Especialista em **Java, Spring Boot, React Native, TypeScript & React** | Foco na construção de **APIs RESTful seguras, aplicações web modernas e aplicativos mobile de alta performance**.
 
 ---
 
@@ -48,32 +47,20 @@ Transformar ideias em **soluções digitais robustas e eficientes**, desenvolven
 
 ---
 
-### 📊 GitHub Stats & Tech Dashboard
+### 🛠️ Core Skills & Stack
 
 <div align="center">
 
-[![GitHub Streak](https://img.shields.io/badge/Streak-Ativo-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/keillaarr)
-[![Top Language](https://img.shields.io/badge/Linguagem%20Principal-Java%20%2F%20Spring-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/keillaarr)
-[![Mobile Dev](https://img.shields.io/badge/Mobile-React_Native-orange?style=for-the-badge&logo=react&logoColor=white)](https://github.com/keillaarr)
-
-</div>
-
-<div align="center">
-
-<!-- Estatísticas gerais -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=keillaarr&show_icons=true&theme=radical&count_private=true&hide=prs,issues"/>
-
-<!-- Linguagens mais usadas -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keillaarr&layout=compact&theme=radical"/>
-
-<!-- Streak de commits -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=keillaarr&theme=radical"/>
+[![Java](https://img.shields.io/badge/Backend-Java_%2F_Spring-blue?style=for-the-badge&logo=java&logoColor=white)](https://github.com/keillaarr)
+[![Mobile](https://img.shields.io/badge/Mobile-React_Native-orange?style=for-the-badge&logo=react&logoColor=white)](https://github.com/keillaarr)
+[![Web](https://img.shields.io/badge/Frontend-React_%2F_TS-blueviolet?style=for-the-badge&logo=react&logoColor=white)](https://github.com/keillaarr)
+[![Database](https://img.shields.io/badge/Database-PostgreSQL-success?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/keillaarr)
 
 </div>
 
 ---
 
-### 🛠️ Projetos em Destaque
+### 📂 Projetos em Destaque
 <div align="center">
   <a href="https://github.com/keillaarr/AutomacaoEndereco" target="_blank">
     <img height="100" src="https://img.shields.io/badge/Automação%20de%20Endereços-blue?style=for-the-badge&logo=github"/>
@@ -86,7 +73,7 @@ Transformar ideias em **soluções digitais robustas e eficientes**, desenvolven
 ---
 
 ### 💡 Competências & Foco
-- **Desenvolvimento Backend:** Criação de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot e JPA**, com foco em segurança de dados e tratamento de registros complexos.
+- **Desenvolvimento Backend:** Criação de microsserviços e APIs RESTful escaláveis utilizando **Java, Spring Boot e JPA**, garantindo segurança e alto desempenho de dados.
 - **Desenvolvimento Mobile:** Construção de interfaces nativas e multiplataforma com **React Native, TypeScript e Expo**, focando em UX, navegação fluida e componentização eficiente.
-- **Desenvolvimento Web:** Aplicações completas utilizando **PHP (Laravel/Blade)**, ecossistemas **Drupal** e arquiteturas modernas no front-end.
+- **Desenvolvimento Web & Frontend:** Criação de aplicações web modernas e responsivas utilizando **React, TypeScript e JavaScript**.
 - **Banco de Dados & DevOps:** Gestão de bancos relacionais (**PostgreSQL, Oracle**), manipulação de dados sensíveis, controle de versão avançado (**Git/GitHub/GitLab**) e automação de rotinas em ambientes **Linux**.
